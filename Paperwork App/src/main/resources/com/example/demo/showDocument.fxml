@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TreeTableColumn?>
+<?import javafx.scene.control.TreeTableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="431.0" prefWidth="633.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.showDocController">
+   <children>
+      <TreeTableView fx:id="docTable" layoutX="-1.0" prefHeight="334.0" prefWidth="634.0">
+        <columns>
+          <TreeTableColumn fx:id="serialColumn" prefWidth="115.99999845027924" text="Serial No" />
+          <TreeTableColumn fx:id="codeColumn" prefWidth="88.00000762939453" text="Code" />
+            <TreeTableColumn fx:id="categoryColumn" prefWidth="91.199951171875" text="Category" />
+            <TreeTableColumn fx:id="dateColumn" prefWidth="100.800048828125" text="Date" />
+            <TreeTableColumn fx:id="validityColumn" prefWidth="99.99993896484375" text="Validity" />
+            <TreeTableColumn fx:id="added_byColumn" prefWidth="137.59994506835938" text="Addey by" />
+        </columns>
+      </TreeTableView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,24 @@
+Firstname= arda
+Lastname= kurt
+TcNo= 12345678912
+Director-ardakrt-123
+
+Firstname= Samet
+Lastname= Çakır
+TcNo= 30430867034
+Director-sametckr-123
+
+Firstname= eren
+Lastname= çetin
+TcNo= 31223445654
+Worker-erenctn-123
+
+Firstname= Berat
+Lastname= Akbey
+TcNo= 12343211234
+Worker-beratkby-123
+
+Firstname= yunus
+Lastname= ozdemir
+TcNo= 12346437
+Director-yunusozdmr-123
